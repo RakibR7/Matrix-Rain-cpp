@@ -1,1 +1,1 @@
-# MatrixX-Rain-cpp
+# Matrix-Rain-cpp
