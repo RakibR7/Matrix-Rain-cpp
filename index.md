@@ -25,4 +25,4 @@ A bullet list:
 
 You can add an impage that has been uploaded to the repository in a /docs/assets/images folder.
 
-<img src="https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/blob/main/Screenshot%202025-02-26%20113716.png>
+<img src="https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/Screenshot%202025-02-26%20113716.png" width="400" height="300">
