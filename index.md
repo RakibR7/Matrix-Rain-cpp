@@ -25,7 +25,6 @@ A bullet list:
 
 
 <img src="https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/Rainfall_header_part_4.png">
-//width="300" height="300"
 
 <img src="https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/main_part_3.png">
 
