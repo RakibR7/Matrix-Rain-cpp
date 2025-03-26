@@ -23,7 +23,6 @@ A bullet list:
 - algorithms
 - iterators
 
-You can add an impage that has been uploaded to the repository in a /docs/assets/images folder.
 
 <img src="https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/Rainfall_header_part_4.png" width="300" height="300">
 
