@@ -5,23 +5,15 @@ author:
   email: G00408***@atu.ie
 description: "A comprehensive showcase of the Matrix Digital Rain animation project created using Modern C++ and Windows Console API."
 
-# Social links (optional)
-social:
-  github: RakibR7
-  linkedin: rakib-rana
-
 # Build settings
 remote_theme: jekyll-theme-minimal
 theme: jekyll-theme-minimal
-
-# Page settings
-show_downloads: true
-google_analytics: # Add your GA tag if needed
-logo: https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/main_part_3.png
 
 # GitHub metadata
 github:
   is_project_page: true
   repository_url: https://github.com/RakibR7/Matrix-Rain-cpp
-  owner_url: https://github.com/RakibR7
-  owner_name: Rakib Rana
+
+# Page settings
+show_downloads: true
+logo: https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/main_part_3.png
