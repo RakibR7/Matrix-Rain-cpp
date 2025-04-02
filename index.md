@@ -1,3 +1,6 @@
+
+theme: jekyll-theme-minimal
+
 ---
 layout: post
 title: A Project in Modern C++
