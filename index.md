@@ -11,6 +11,14 @@ title: Matrix Rain Animation in Modern C++
 
 Hello, my name is Rakib Rana. I've created a console-based Matrix Digital Rain animation using Modern C++ and Windows console APIs. This project simulates the iconic cascading green characters effect from "The Matrix" film series, bringing the cyberpunk aesthetic to your console window.
 
+## Demo
+
+<video width="100%" controls autoplay loop muted>
+  <source src="https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/CPLUSGIF.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<p><em>Live demonstration of the Matrix Digital Rain animation running in a Windows console.</em></p>
+
 ## Project Overview
 
 <div style="margin-bottom: 30px;">
