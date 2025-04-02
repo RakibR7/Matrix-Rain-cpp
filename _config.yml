@@ -1,9 +1,9 @@
 # Site settings
 title: Digital Rain Modern C++ Project Blog
 author:
-  name: Michelle Lynch
-  email: your-email@domain.com
-description: "A blog."
+  name: Rakib Rana
+  email: G00408***@atu.ie
+description: "A comprehensive blog detailing the development and insights of the Digital Rain project using Modern C++."
 
 # Build settings
 remote_theme: jekyll-theme-minimal
