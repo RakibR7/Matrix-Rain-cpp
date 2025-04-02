@@ -6,8 +6,9 @@ author:
 description: "A comprehensive showcase of the Matrix Digital Rain animation project created using Modern C++ and Windows Console API."
 
 # Build settings
-remote_theme: jekyll-theme-minimal
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 # GitHub metadata
 github:
@@ -16,4 +17,3 @@ github:
 
 # Page settings
 show_downloads: true
-logo: https://raw.githubusercontent.com/RakibR7/Matrix-Rain-cpp/main/docs/assets/images/main_part_3.png
