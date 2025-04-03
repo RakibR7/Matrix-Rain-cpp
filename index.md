@@ -54,8 +54,8 @@ Hello, my name is Rakib Rana. I've created a console-based Matrix Digital Rain a
 
 ### Visual Studio
 1. Open the project in Visual Studio
-2. Build the solution (F7 or Ctrl+Shift+B)
-3. Run the program (F5)
+2. Build the solution
+3. Run the program
 
 That's it! The Matrix Digital Rain animation will execute in the console window.
 
